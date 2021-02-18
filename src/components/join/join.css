@@ -1,0 +1,6 @@
+.chatint{
+    color: white !important;
+}
+.chatint:focus{
+    color: black !important;
+}
